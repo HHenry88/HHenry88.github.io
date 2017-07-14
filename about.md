@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+Hello!
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
+I'm Henry and I design and develop full-stack applications and modules. I've worked professionally as a front-end developer and have now migrated over to the back-end and full-stack. The migration was a tough process, but so worth it. I love what I'm doing now.
 
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+You can check out some of my stuff and what I'm currently working on here at my <data data-icon="ei-sc-github"></data>[Github](https://github.com/HHenry88/).
+
+My old site and hobby projects back in the Angular-only days can be found [here](http://henryhan.me/).   
