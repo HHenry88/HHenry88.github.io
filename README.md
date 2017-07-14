@@ -1,27 +1,16 @@
-This theme is designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/). Visit her website for more themes [http://themes.3rdwavemedia.com/](http://themes.3rdwavemedia.com/)
+# jekyll-simple
 
+## simple
+simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
 
-I have made this into a Jekyll Theme.
-**Demo:** [http://webjeda.com/online-cv/](http://webjeda.com/online-cv/)
+Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
 
-The default theme would look like this
+Supposedly, this could work with Japanese as well but never had a chance to try.
 
-![online cv Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme.png)
+## Story behind this theme
 
-The theme is responsive
+It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
 
-![online cv responsive Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-responsive-jekyll-theme.png)
+iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
 
-There are 6 color schemes available
-
-![online cv Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme-2.png)
-
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready at https://username.github.io/online-cv/
-
-[Watch my video on instlallation](https://www.youtube.com/embed/T2nx6tj-ZH4)
-
-
-Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com)
+So mobile goes first, then the macOS.
