@@ -1,8 +1,8 @@
+---
 layout: post
 title:  "Welcome to my blog"
 date: 2016-07-12 21:06:26 +0800
 categories: learning
-
 ---
 Welcome to my first blog post about... nothing really, yet.
 
